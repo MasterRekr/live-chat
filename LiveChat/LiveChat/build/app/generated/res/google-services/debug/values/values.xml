@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">984490664555-73h905femdko5jpcadfijp0ttj8svg80.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">984490664555</string>
+    <string name="google_api_key" translatable="false">AIzaSyA7rX6SiKD1_zY0xDKPYxDg0Z0FinEG0hw</string>
+    <string name="google_app_id" translatable="false">1:984490664555:android:59b427489b15ccc022872e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA7rX6SiKD1_zY0xDKPYxDg0Z0FinEG0hw</string>
+    <string name="google_storage_bucket" translatable="false">livechatmessenger-9724f.appspot.com</string>
+    <string name="project_id" translatable="false">livechatmessenger-9724f</string>
+</resources>

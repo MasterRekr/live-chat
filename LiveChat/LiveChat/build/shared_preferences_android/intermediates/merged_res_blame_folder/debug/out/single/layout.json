@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Flutterprojects\\LiveChat\\LiveChat\\LiveChat\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\tdfkn\\.gradle\\caches\\transforms-2\\files-2.1\\0ae2fce6d04219b69325bf0caf856c9a\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Flutterprojects\\LiveChat\\LiveChat\\LiveChat\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\tdfkn\\.gradle\\caches\\transforms-2\\files-2.1\\0ae2fce6d04219b69325bf0caf856c9a\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Flutterprojects\\LiveChat\\LiveChat\\LiveChat\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\tdfkn\\.gradle\\caches\\transforms-2\\files-2.1\\0ae2fce6d04219b69325bf0caf856c9a\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Flutterprojects\\LiveChat\\LiveChat\\LiveChat\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\tdfkn\\.gradle\\caches\\transforms-2\\files-2.1\\0ae2fce6d04219b69325bf0caf856c9a\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Flutterprojects\\LiveChat\\LiveChat\\LiveChat\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\tdfkn\\.gradle\\caches\\transforms-2\\files-2.1\\0ae2fce6d04219b69325bf0caf856c9a\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Flutterprojects\\LiveChat\\LiveChat\\LiveChat\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\tdfkn\\.gradle\\caches\\transforms-2\\files-2.1\\0ae2fce6d04219b69325bf0caf856c9a\\core-1.6.0\\res\\layout\\notification_action.xml"
+    }
+]
